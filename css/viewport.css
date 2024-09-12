@@ -1,0 +1,92 @@
+#portraitWarning{
+    height:100%;
+    width: 100%;
+    background-color: #000;
+    color:#fff;
+    display:none;
+    z-index:100;
+    position:fixed;
+    top:0;
+    left:0;
+    text-align: center;
+    line-height: 200px;
+    font-weight: bold;
+    background-repeat: no-repeat;
+    background-image: url('../assets/images/portrait-to-landscape-hmtl5.png');
+    background-position: 56% 50%;
+    background-size: 60%;
+}
+
+.screenCenteredElement {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+	display : flex;
+ 	-webkit-box-align: center;
+    -webkit-align-items: center;
+    -moz-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -moz-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+.fullscreenFinger{
+    position: absolute;
+    display: block;
+    top:50px;
+    left:30%;
+    width:160px;
+    height:116px;
+    -webkit-background-size:100% 100%;
+    background-size:100% 100%;
+    background-repeat: no-repeat;
+	background-image: url('../images/swipe_html5_hand.png');
+}
+
+.scrollFingerAnimationLandscape {
+    -webkit-animation: scrollFingerAnimationLandscape 1.2s 0s infinite;
+}
+
+@-webkit-keyframes scrollFingerAnimationLandscape {
+    0% {
+        -webkit-transform: translate3d(0px, 200%, 0px);
+        animation-timing-function: ease-in;
+    }
+    100% {
+        -webkit-transform: translate3d(0px, 10%, 0px);
+    }
+}
+
+#brim-mask{
+    display: none;
+ }
+
+ #brim-main{
+     height:100%;
+     width:100%;
+     margin:auto;
+ }
+
+ #fullscreenMaskBackground
+ {
+     width:100%;
+     height:100%;
+     background-color:#000;
+     opacity:0.9;
+ }
+
+#content
+{
+    overflow:hidden;
+    height: 100%;
+}

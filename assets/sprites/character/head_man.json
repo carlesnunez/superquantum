@@ -1,0 +1,93 @@
+{"frames": {
+
+"brain copia.png":
+{
+	"frame": {"x":2,"y":76,"w":48,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":16,"w":48,"h":32},
+	"sourceSize": {"w":80,"h":112},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"bubble.png":
+{
+	"frame": {"x":78,"y":32,"w":32,"h":24},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":20,"w":32,"h":24},
+	"sourceSize": {"w":80,"h":112},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ctulu.png":
+{
+	"frame": {"x":48,"y":32,"w":28,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":20,"w":28,"h":32},
+	"sourceSize": {"w":80,"h":112},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"doggy.png":
+{
+	"frame": {"x":48,"y":2,"w":36,"h":28},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":16,"w":36,"h":28},
+	"sourceSize": {"w":80,"h":112},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"hairman1.png":
+{
+	"frame": {"x":52,"y":66,"w":28,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":16,"w":28,"h":32},
+	"sourceSize": {"w":80,"h":112},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"hairman2.png":
+{
+	"frame": {"x":82,"y":58,"w":32,"h":24},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":20,"w":32,"h":24},
+	"sourceSize": {"w":80,"h":112},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"hairman3.png":
+{
+	"frame": {"x":86,"y":2,"w":28,"h":24},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":20,"w":28,"h":24},
+	"sourceSize": {"w":80,"h":112},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"hairman4.png":
+{
+	"frame": {"x":82,"y":84,"w":32,"h":24},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":20,"w":32,"h":24},
+	"sourceSize": {"w":80,"h":112},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"monkey.png":
+{
+	"frame": {"x":2,"y":2,"w":44,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":20,"w":44,"h":72},
+	"sourceSize": {"w":80,"h":112},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "man_head.png",
+	"format": "RGBA8888",
+	"size": {"w":116,"h":110},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:3b066e83928d5596b14e7a93018619cc:1cf682e5ab0d56b8591dc5b3ceedfd77:5a124dbd81f43d3698494308f3599bff$"
+}
+}

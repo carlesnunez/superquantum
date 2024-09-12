@@ -1,0 +1,48 @@
+{"frames": {
+
+"coin0000.png":
+{
+	"frame": {"x":106,"y":2,"w":44,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":44,"h":48},
+	"sourceSize": {"w":56,"h":56},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"coin0001.png":
+{
+	"frame": {"x":56,"y":2,"w":48,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":48,"h":52},
+	"sourceSize": {"w":56,"h":56},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"coin0002.png":
+{
+	"frame": {"x":2,"y":2,"w":52,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":52,"h":56},
+	"sourceSize": {"w":56,"h":56},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"coin0003.png":
+{
+	"frame": {"x":56,"y":2,"w":48,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":48,"h":52},
+	"sourceSize": {"w":56,"h":56},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "coin.png",
+	"format": "RGBA8888",
+	"size": {"w":152,"h":60},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:3f7f0b4e58bb3b7595e3a9e9188b9891:553636490351e545a9581613f5e5c767:37dcde439de7f7292f96409a4c62c08e$"
+}
+}

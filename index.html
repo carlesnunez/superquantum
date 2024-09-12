@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+    <head>
+        <!-- TODO Game Name -->
+        <title></title>
+        <script src="js/phaser.min.js"></script>
+        <script src="js/plugins/shake.js"></script>
+        <script src="js/game.js"></script>
+        <link rel="stylesheet" href="css/viewport.css"/>
+        <link rel="stylesheet" href="css/game.min.css"/>
+        <meta name="apple-mobile-web-app-capable" content="yes"/>
+        <meta name="viewport"
+              content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, minimal-ui">
+    </head>
+    <body>
+        <div class="screenCenteredElement">
+            <div id="brim-main">
+                <div id="content"></div>
+            </div>
+        </div>
+        <div id="brim-mask">
+            <div id="fullScreenMaskBackground"></div>
+            <div id="movingFinger" class="fullscreenFinger scrollFingerAnimationLandscape"></div>
+        </div>
+        <div id="portraitWarning"></div>
+    </body>
+</html>

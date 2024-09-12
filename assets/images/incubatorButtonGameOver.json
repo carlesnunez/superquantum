@@ -1,0 +1,30 @@
+{"frames": {
+
+"gameover_buttons0000":
+{
+	"frame": {"x":2,"y":2,"w":260,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":260,"h":40},
+	"sourceSize": {"w":260,"h":40},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"gameover_buttons0001":
+{
+	"frame": {"x":264,"y":2,"w":260,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":260,"h":40},
+	"sourceSize": {"w":260,"h":40},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "incubator.png",
+	"format": "RGBA8888",
+	"size": {"w":526,"h":44},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e2506a62b6e608b283fc853275367154:46c41cbbbed214350aa16a5a490cd2f2:d600839e5795831581f39c2191689c75$"
+}
+}

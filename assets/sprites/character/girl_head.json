@@ -1,0 +1,102 @@
+{"frames": {
+
+"brain copia.png":
+{
+	"frame": {"x":2,"y":76,"w":48,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":16,"w":48,"h":32},
+	"sourceSize": {"w":80,"h":112},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ctululady.png":
+{
+	"frame": {"x":78,"y":32,"w":28,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":20,"w":28,"h":32},
+	"sourceSize": {"w":80,"h":112},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"doggylady.png":
+{
+	"frame": {"x":52,"y":70,"w":36,"h":28},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":16,"w":36,"h":28},
+	"sourceSize": {"w":80,"h":112},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"hair1.png":
+{
+	"frame": {"x":90,"y":100,"w":24,"h":20},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":24,"w":24,"h":20},
+	"sourceSize": {"w":80,"h":112},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"hair2.png":
+{
+	"frame": {"x":52,"y":100,"w":36,"h":20},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":24,"w":36,"h":20},
+	"sourceSize": {"w":80,"h":112},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"hair3.png":
+{
+	"frame": {"x":90,"y":2,"w":28,"h":24},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":24,"w":28,"h":24},
+	"sourceSize": {"w":80,"h":112},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"hair4.png":
+{
+	"frame": {"x":90,"y":66,"w":28,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":24,"w":28,"h":32},
+	"sourceSize": {"w":80,"h":112},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"hair5.png":
+{
+	"frame": {"x":48,"y":32,"w":28,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":20,"w":28,"h":36},
+	"sourceSize": {"w":80,"h":112},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"monkeylady.png":
+{
+	"frame": {"x":2,"y":2,"w":44,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":20,"w":44,"h":72},
+	"sourceSize": {"w":80,"h":112},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"oldlady.png":
+{
+	"frame": {"x":48,"y":2,"w":40,"h":28},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":16,"w":40,"h":28},
+	"sourceSize": {"w":80,"h":112},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "girl_head.png",
+	"format": "RGBA8888",
+	"size": {"w":120,"h":122},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:75157216a0e09e3da5c533fd8917ef59:93b95113a9a64f7dc7a9c4e984bb5d9b:0a78691ec3b42e4325e795802ac80cb7$"
+}
+}
